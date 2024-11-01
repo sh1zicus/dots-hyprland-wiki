@@ -73,15 +73,6 @@ export default defineConfig({
 					autogenerate: { directory: 'i-i' },
 				},
 				{
-					label: 'Archives (unmaintained)',
-          collapsed: true,
-          translations: {
-            'vi': 'Kho lưu trữ (ko đc duy trì)',
-            'zh-CN': '存档（不再维护）',
-          },
-					autogenerate: { directory: 'archives' },
-				},
-				{
 					label: 'Dev Notes',
           collapsed: true,
           badge: { text: 'Dev' },
