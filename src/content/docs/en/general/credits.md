@@ -3,7 +3,10 @@ title: Credits
 lastUpdated: 2024-03-18
 ---
 ## Developers
-- [end_4](https://github.com/end-4): The repo owner and author.
+- [s0mesh1t](https://github.com/s0mesh1t): The repo owner and author.
+  - develops its own repository branch based on end-4/dots-hyprland
+  - Since Oct. 2024 until now.
+- [end_4](https://github.com/end-4): The repo based on.
   - Created the main parts of this project such as the setup of Hyprland and AGS and maintains them.
   - Since Jan. 2023 until now.
 - [clsty](https://github.com/clsty): The assistant dev.
@@ -19,7 +22,7 @@ lastUpdated: 2024-03-18
 
 ## Stonks
 - _thank you_
-[![Stargazers over time](https://starchart.cc/end-4/dots-hyprland.svg?background=%230d1117&axis=%23e6edf3&line=%234759e7)](https://starchart.cc/end-4/dots-hyprland)
+[![Stargazers over time](https://starchart.cc/s0mesh1t/dots-hyprland.svg?background=%230d1117&axis=%23e6edf3&line=%234759e7)](https://starchart.cc/s0mesh1t/dots-hyprland)
 
 
 ## Inspirations

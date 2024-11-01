@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # See more at
-# https://github.com/end-4/dots-hyprland-wiki/issues/3
+# https://github.com/s0mesh1t/dots-hyprland-wiki/issues/3
 
 set -e
 script=$(readlink -f "$0")

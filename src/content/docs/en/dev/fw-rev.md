@@ -17,7 +17,7 @@ Simple "bar" program will still be called a "Framework" here, despite it's actua
 :::caution[Clarification]
 This note may contain personal subjective opinions. Objectivity is not excluded, but it is still difficult to guarantee.
 Some contents come from personal experiences, so it is difficult to guarantee topicality and correctness.
-However, feel free to discuss it [here](https://github.com/end-4/dots-hyprland-wiki/discussions).
+However, feel free to discuss it [here](https://github.com/s0mesh1t/dots-hyprland-wiki/discussions).
 :::
 
 References: [Arch Wiki](https://wiki.archlinux.org/title/List_of_applications/Other#Taskbars)

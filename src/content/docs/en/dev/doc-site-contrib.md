@@ -7,14 +7,14 @@ sidebar:
 lastUpdated: 2024-02-24
 ---
 
-The repo of this doc site is [here](https://github.com/end-4/dots-hyprland-wiki) and it's open to contribution.
+The repo of this doc site is [here](https://github.com/s0mesh1t/dots-hyprland-wiki) and it's open to contribution.
 
 **We sincerely thank all contributors.**
 
 # What to contribute
 You're welcomed to submit any kind of beneficial Pull Request, though it's our final decision to merge it or not.
 
-If you're unsure about a possible PR, you may create a [Discussion](https://github.com/end-4/dots-hyprland-wiki/discussions) before you work on it.
+If you're unsure about a possible PR, you may create a [Discussion](https://github.com/s0mesh1t/dots-hyprland-wiki/discussions) before you work on it.
 
 **Here are some common types of contribution:**
 
@@ -22,11 +22,11 @@ If you're unsure about a possible PR, you may create a [Discussion](https://gith
 This site has i18n support, and we need your help to finish l10n (i.e. translation).
 
 :::note
-Please don't waste your time on translating Dev Notes. See [#1](https://github.com/end-4/dots-hyprland-wiki/issues/1#issuecomment-1938696111) for reason.
+Please don't waste your time on translating Dev Notes. See [#1](https://github.com/s0mesh1t/dots-hyprland-wiki/issues/1#issuecomment-1938696111) for reason.
 :::
 
 ## Content
-Typically, if you have successfully contributed a new function/workflow/... to [dots-hyprland](https://github.com/end-4/dots-hyprland),
+Typically, if you have successfully contributed a new function/workflow/... to [dots-hyprland](https://github.com/s0mesh1t/dots-hyprland),
 and if it needs documentation, then you're very welcomed to submit a PR here to document it.
 
 Troubleshooting related contents are also welcomed.
@@ -53,7 +53,7 @@ Hi <Your GitHub username>! You've successfully authenticated, but GitHub does no
 Then you're all set.
 
 ## Get this repo
-[Fork this repo online](https://github.com/end-4/dots-hyprland-wiki/fork), and then `git clone` the forked repo to your local machine.
+[Fork this repo online](https://github.com/s0mesh1t/dots-hyprland-wiki/fork), and then `git clone` the forked repo to your local machine.
 
 ## Make changes (with l10n example)
 `cd` to the folder of the cloned repo so that you can make futher changes.

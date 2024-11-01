@@ -3,16 +3,16 @@ import starlight from '@astrojs/starlight';
 
 // https://starlight.astro.build/reference/configuration
 export default defineConfig({
-  site: 'https://end-4.github.io',
+  site: 'https://s0mesh1t.github.io',
   base: '/dots-hyprland-wiki',
 	integrations: [
 		starlight({
-			title: 'end-4/dots-hyprland',
+			title: 's0mesh1t/dots-hyprland',
 			social: {
-				github: 'https://github.com/end-4/dots-hyprland',
+				github: 'https://github.com/s0mesh1t/dots-hyprland',
 			},
       editLink: {
-          baseUrl: 'https://github.com/end-4/dots-hyprland-wiki/tree/main',
+          baseUrl: 'https://github.com/s0mesh1t/dots-hyprland-wiki/tree/main',
       },
       customCss: ['./src/styles/custom.css'],
       tableOfContents: { minHeadingLevel: 1, maxHeadingLevel: 2, },
@@ -39,10 +39,10 @@ export default defineConfig({
         //   label: 'Polish', //Polish
         //   lang: 'pl',
         // },
-        // 'ru': {
-        //   label: 'Russian', //Russian
-        //   lang: 'ru',
-        // },
+        'ru': {
+          label: 'Russian', //Russian
+          lang: 'ru',
+        },
         // 'tr': {
         //   label: 'Turkish', //Turkish
         //   lang: 'tr',

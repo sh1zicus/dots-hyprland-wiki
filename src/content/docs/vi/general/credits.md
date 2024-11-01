@@ -6,17 +6,17 @@ lastUpdated: 2024-02-18
 Bản dịch này đã cũ và cần được cập nhật. Bản gốc (tiếng Anh) được sửa lần cuối vào: 2024-02-24
 :::
 
- - Tất nhiên là [end_4](https://github.com/end-4)
+ - Tất nhiên là [end_4](https://github.com/s0mesh1t)
 
 ## Cảm ơn
- - [clsty](https://github.com/clsty) vì làm script cài đặt, [wiki này](https://github.com/end-4/dots-hyprland-wiki) và nhiều việc khác
+ - [clsty](https://github.com/clsty) vì làm script cài đặt, [wiki này](https://github.com/s0mesh1t/dots-hyprland-wiki) và nhiều việc khác
  - AGS: [Aylur](https://github.com/Aylur/dotfiles), [kotontrion](https://github.com/kotontrion/dotfiles)
  - EWW: [fufexan](https://github.com/fufexan/dotfiles)
  - AI vì viết cho nhiều thứ
 
 ## Stonks
 - _thank you_
-[![Stargazers over time](https://starchart.cc/end-4/dots-hyprland.svg?background=%230d1117&axis=%23e6edf3&line=%234759e7)](https://starchart.cc/end-4/dots-hyprland)
+[![Stargazers over time](https://starchart.cc/s0mesh1t/dots-hyprland.svg?background=%230d1117&axis=%23e6edf3&line=%234759e7)](https://starchart.cc/s0mesh1t/dots-hyprland)
 
 
 ## Cảm hứng
