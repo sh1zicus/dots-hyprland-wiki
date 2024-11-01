@@ -1,13 +1,13 @@
 # dots-hyprland-wiki
 
-The repo of documentation site for [dots-hyprland](https://github.com/end-4/dots-hyprland), hosted [here](https://end-4.github.io/dots-hyprland-wiki).
+The repo of documentation site for [dots-hyprland](https://github.com/s0mesh1t/dots-hyprland), hosted [here](https://s0mesh1t.github.io/dots-hyprland-wiki).
 
 > Currently, this project is based on Starlight, which is based on Astro.
 > The website is hosted on GitHub Pages.
 
-**The development and contribution about this repo is documented [here](https://end-4.github.io/dots-hyprland-wiki/en/dev/doc-site).**
+**The development and contribution about this repo is documented [here](https://s0mesh1t.github.io/dots-hyprland-wiki/en/dev/doc-site).**
 
-> If the site is unavailable for some reason, see its source file [here](https://github.com/end-4/dots-hyprland-wiki/blob/main/src/content/docs/en/dev/doc-site.md).
+> If the site is unavailable for some reason, see its source file [here](https://github.com/s0mesh1t/dots-hyprland-wiki/blob/main/src/content/docs/en/dev/doc-site.md).
 
 ## References
 
@@ -16,4 +16,4 @@ The repo of documentation site for [dots-hyprland](https://github.com/end-4/dots
 - [Expressive-code](https://expressive-code.com/)
 
 ## History
-This doc site started from [dots-hyprland#246](https://github.com/end-4/dots-hyprland/issues/246) and was then initialized mainly by [@clsty](https://github.com/clsty) with contents from the README and built-in wiki of [dots-hyprland](https://github.com/end-4/dots-hyprland) and the README of [dots-hyprarch](https://github.com/clsty/dots-hyprarch).
+This doc site started from [dots-hyprland#246](https://github.com/s0mesh1t/dots-hyprland/issues/246) and was then initialized mainly by [@clsty](https://github.com/clsty) with contents from the README and built-in wiki of [dots-hyprland](https://github.com/s0mesh1t/dots-hyprland) and the README of [dots-hyprarch](https://github.com/clsty/dots-hyprarch).
