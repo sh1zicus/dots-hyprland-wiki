@@ -7,7 +7,7 @@ lastUpdated: 2024-02-25
 ---
 Currently:
 - `install.sh` `checkdeps.sh` `setup.sh` only work for Arch(-based) distros.
-- `update-ags.sh` works for common distros, but user must figure out deps for AGS themselves (at least not easy for openSUSE, see [s0mesh1t#275](https://github.com/s0mesh1t/dots-hyprland/discussions/275) and [Aylur#313](https://github.com/Aylur/ags/discussions/313)).
+- `update-ags.sh` works for common distros, but user must figure out deps for AGS themselves (at least not easy for openSUSE, see [sh1zicus#275](https://github.com/sh1zicus/dots-hyprland/discussions/275) and [Aylur#313](https://github.com/Aylur/ags/discussions/313)).
 
 # Structrue
 Main script: `install.sh`
@@ -20,7 +20,7 @@ Other scripts:
   - If executed, it installs AGS without confirm.
 - `checkdeps.sh`
   - Check the existence of pkgs listed in `./scriptdata/dependencies.conf`.
-  - It somehow fixes [the problem caused by yay](https://github.com/s0mesh1t/dots-hyprland/discussions/204).
+  - It somehow fixes [the problem caused by yay](https://github.com/sh1zicus/dots-hyprland/discussions/204).
 - `uninstall.sh`
   - Deprecated. Unrecommended to use because its behavior may be destructive.
   - If executed, it tries to revert all changes from `install.sh`, whether the change is or is not really caused by `install.sh`.

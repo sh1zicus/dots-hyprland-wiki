@@ -3,7 +3,7 @@ title: 致谢
 lastUpdated: 2024-03-31
 ---
 ## 开发者
-- [s0mesh1t](https://github.com/s0mesh1t): 仓库持有者以及作者。
+- [sh1zicus](https://github.com/sh1zicus): 仓库持有者以及作者。
   - 创造了此项目的主体部分，比如 Hyprland 和 AGS 的配置，并且维护它们。
   - 自 2023 年 1 月至今。
 - [end_4](https://github.com/end-4): 仓库持有者以及作者。
@@ -22,7 +22,7 @@ lastUpdated: 2024-03-31
 
 ## 星之折线图
 - _谢谢你们_
-[![Star 数按时间的变化](https://starchart.cc/s0mesh1t/dots-hyprland.svg?background=%230d1117&axis=%23e6edf3&line=%234759e7)](https://starchart.cc/s0mesh1t/dots-hyprland)
+[![Star 数按时间的变化](https://starchart.cc/sh1zicus/dots-hyprland.svg?background=%230d1117&axis=%23e6edf3&line=%234759e7)](https://starchart.cc/sh1zicus/dots-hyprland)
 
 
 ## 灵感来源

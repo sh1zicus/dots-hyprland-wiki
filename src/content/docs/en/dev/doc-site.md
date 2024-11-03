@@ -9,7 +9,7 @@ lastUpdated: 2024-02-24
 
 This page "documents" this "documentation site" itself.
 
-The repo of this doc site is [here](https://github.com/s0mesh1t/dots-hyprland-wiki) and it's open to [contribution](../doc-site-contrib).
+The repo of this doc site is [here](https://github.com/sh1zicus/dots-hyprland-wiki) and it's open to [contribution](../doc-site-contrib).
 
 # Development
 
@@ -81,4 +81,4 @@ When generating link paths, the uppercase characters inside original markdown fi
 - [Expressive-code](https://expressive-code.com/)
 
 # History
-This doc site started from [dots-hyprland#246](https://github.com/s0mesh1t/dots-hyprland/issues/246) and was then initialized mainly by [@clsty](https://github.com/clsty) with contents from the README and built-in wiki of [dots-hyprland](https://github.com/s0mesh1t/dots-hyprland) and the README of [dots-hyprarch](https://github.com/clsty/dots-hyprarch).
+This doc site started from [dots-hyprland#246](https://github.com/sh1zicus/dots-hyprland/issues/246) and was then initialized mainly by [@clsty](https://github.com/clsty) with contents from the README and built-in wiki of [dots-hyprland](https://github.com/sh1zicus/dots-hyprland) and the README of [dots-hyprarch](https://github.com/clsty/dots-hyprarch).

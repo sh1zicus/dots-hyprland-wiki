@@ -3,7 +3,7 @@ title: Credits
 lastUpdated: 2024-03-18
 ---
 ## Developers
-- [s0mesh1t](https://github.com/s0mesh1t): The repo owner and author.
+- [sh1zicus](https://github.com/sh1zicus): The repo owner and author.
   - develops its own repository branch based on end-4/dots-hyprland
   - Since Oct. 2024 until now.
 - [end_4](https://github.com/end-4): The repo based on.
@@ -22,7 +22,7 @@ lastUpdated: 2024-03-18
 
 ## Stonks
 - _thank you_
-[![Stargazers over time](https://starchart.cc/s0mesh1t/dots-hyprland.svg?background=%230d1117&axis=%23e6edf3&line=%234759e7)](https://starchart.cc/s0mesh1t/dots-hyprland)
+[![Stargazers over time](https://starchart.cc/sh1zicus/dots-hyprland.svg?background=%230d1117&axis=%23e6edf3&line=%234759e7)](https://starchart.cc/sh1zicus/dots-hyprland)
 
 
 ## Inspirations
